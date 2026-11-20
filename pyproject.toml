@@ -1,7 +1,7 @@
 [project]
 name = "marimo-train-dashboard"
 version = "0.0.1"
-description = "THis project provides a marimo dashboard built on a database"
+description = "This project provides a marimo dashboard built on a database"
 authors = [{ name = "Matti Kaupenjohann", email = "matti.kaupenjohann@fh-dortmund.de" }]
 readme = "README.md"
 keywords = ['python']

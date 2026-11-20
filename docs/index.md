@@ -5,4 +5,4 @@
 [![Commit activity](https://img.shields.io/github/commit-activity/m/makanu/marimo-train-dashboard)](https://img.shields.io/github/commit-activity/m/makanu/marimo-train-dashboard)
 [![License](https://img.shields.io/github/license/makanu/marimo-train-dashboard)](https://img.shields.io/github/license/makanu/marimo-train-dashboard)
 
-THis project provides a marimo dashboard built on a database
+This project provides a marimo dashboard built on a database
